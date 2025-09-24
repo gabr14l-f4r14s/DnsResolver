@@ -10,8 +10,8 @@ As saídas são destacadas com **cores**: verde para resultados e vermelho para 
 - Recebe o host a ser consultado via **argumento de linha de comando** (`sys.argv`).
 - Faz a resolução DNS usando `socket.gethostbyname()`.
 - Exibe o resultado em **verde** se a resolução for bem-sucedida.
-- - Pergunta se o usuário deseja realizar uma nova resolução sem precisar reiniciar o programa.
-  - ---
+- Pergunta se o usuário deseja realizar uma nova resolução sem precisar reiniciar o programa.
+---
 
 ## 🚀 Uso
 
